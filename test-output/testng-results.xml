@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12486" started-at="2014-10-30T09:15:11Z" finished-at="2014-10-30T09:15:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12486" started-at="2014-10-30T09:15:11Z" finished-at="2014-10-30T09:15:24Z">
+      <class name="com.netease.demo.TestSimpleFlexApp">
+        <test-method status="PASS" signature="doBeforeClass()[pri:0, instance:com.netease.demo.TestSimpleFlexApp@68da4b71]" name="doBeforeClass" is-config="true" duration-ms="2197" started-at="2014-10-30T17:15:11Z" finished-at="2014-10-30T17:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeClass -->
+        <test-method status="PASS" signature="doTest()[pri:0, instance:com.netease.demo.TestSimpleFlexApp@68da4b71]" name="doTest" duration-ms="8486" started-at="2014-10-30T17:15:13Z" finished-at="2014-10-30T17:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+        <test-method status="PASS" signature="doAfterClass()[pri:0, instance:com.netease.demo.TestSimpleFlexApp@68da4b71]" name="doAfterClass" is-config="true" duration-ms="1774" started-at="2014-10-30T17:15:22Z" finished-at="2014-10-30T17:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterClass -->
+      </class> <!-- com.netease.demo.TestSimpleFlexApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
